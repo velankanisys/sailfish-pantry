@@ -8,7 +8,7 @@ All cookbooks and roles are created/modified by Velankani Information Systems, I
 
 To understand the basic concept of Cookbooks and Roles (defined by Chef), please read [Chef Wiki](http://wiki.opscode.com/display/chef/Home) first.
 
-## Main Changes in the Velankani Information Systems, Inc Project Sailfish Cookbooks
+## Main Changes in Project Sailfish Cookbooks
 
 * Cookbook for Kafka, RabbitMQ distributed messaging systems.
 * Cookbook for Cisco Nexus Platforms
