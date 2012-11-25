@@ -4,7 +4,7 @@
 
 This repository contains all the cookbooks and roles used in Velankani Information Systems, Inc Project Sailfish - A Big Data Architecture for Cisco UCS and Cisco Unified Fabric.
 
-All cookbooks and roles are created/modified by Velankani Information Systems, Inc Project Sailfish based on cookbooks and roles open sourced by [Infochimps](https://github.com/infochimps-labs/ironfan-pantry).
+All cookbooks and roles are created/modified by Velankani Information Systems, Inc Project Sailfish based on cookbooks and roles open sourced by the awesome folks at [Infochimps](https://github.com/infochimps-labs/ironfan-pantry).
 
 To understand the basic concept of Cookbooks and Roles (defined by Chef), please read [Chef Wiki](http://wiki.opscode.com/display/chef/Home) first.
 
