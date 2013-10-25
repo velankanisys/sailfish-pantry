@@ -1,23 +1,24 @@
-# Velankani Information Systems, Inc Project Sailfish 
+# Project Sailfish - Full Stack Cisco Validated Designs for Big Data
 
 ## Cookbooks and Roles
 
-This repository contains all the cookbooks and roles used in Velankani Information Systems, Inc Project Sailfish - A Big Data Architecture for Cisco UCS and Cisco Unified Fabric.
+This repository contains all the cookbooks and roles used in Velankani Information Systems, Inc Project Sailfish.
 
-The cookbooks and roles are created/modified/maintained by Velankani Information Systems, Inc Project Sailfish based on cookbooks and roles open sourced by the awesome folks at [Infochimps](https://github.com/infochimps-labs/ironfan-pantry).
+The cookbooks and roles are created/modified/maintained by Velankani Information Systems, Inc Project Sailfish. Open Source third-party cookbooks used belong to the respective authors and organizations. 
 
 To understand the basic concept of Cookbooks and Roles (defined by Chef), please read [Chef Wiki](http://wiki.opscode.com/display/chef/Home) first.
 
 ## Main Changes in Project Sailfish Cookbooks
 
-* Cookbook for Kafka, RabbitMQ distributed messaging systems.
-* Cookbook for Cisco Nexus Platforms
+* Cookbooks for Hadoop - Cloudera, HortonWorks
+* Cookbooks for Kafka, RabbitMQ distributed messaging systems.
+* Cookbooks for Cisco Nexus Platforms
 * Cookbooks for Cisco UCS
 * Additional Ruby gems and knife plugins
 
 
 # Notice
-Copyright (c) 2012 , Velankani Information Systems, Inc. All Rights Reserved.
+Copyright (c) 2013 , Velankani Information Systems, Inc. All Rights Reserved.
 
 This product is licensed to you under the Apache License, Version 2.0 (the "License").  
 You may not use this product except in compliance with the License.  
