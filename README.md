@@ -1,4 +1,5 @@
-# Project Sailfish - Full Stack Cisco Validated Designs for Big Data
+# [Project Sailfish] 
+Full Stack Cisco Validated Designs Automation for Big Data on Cisco Unified Platforms.
 
 ## Cookbooks and Roles
 
@@ -10,7 +11,8 @@ To understand the basic concept of Cookbooks and Roles (defined by Chef), please
 
 ## Main Changes in Project Sailfish Cookbooks
 
-* Cookbooks for Hadoop - Cloudera, HortonWorks
+* Cookbooks for Hadoop and Hadoop Ecosystem - Cloudera, HortonWorks
+* Cookbooks for NoSQL - Cassandra, HBase, Accumulo
 * Cookbooks for Kafka, RabbitMQ distributed messaging systems.
 * Cookbooks for Cisco Nexus Platforms
 * Cookbooks for Cisco UCS
