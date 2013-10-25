@@ -9,7 +9,7 @@ The cookbooks and roles are created/modified/maintained by Velankani Information
 
 To understand the basic concept of Cookbooks and Roles (defined by Chef), please read [Chef Wiki](http://wiki.opscode.com/display/chef/Home) first.
 
-## Main Changes in Project Sailfish Cookbooks
+## Main Changes in Project Sailfish Chef Cookbooks
 
 * Cookbooks for Hadoop and Hadoop Ecosystem - Cloudera, HortonWorks
 * Cookbooks for NoSQL - Cassandra, HBase, Accumulo
